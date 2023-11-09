@@ -55,9 +55,9 @@
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-group-remark-feature": "Proposed Group Remark Feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
-        "add-command-feature": "Add Command Feature",
-        "create-group": "Create Group",
-        "proposed-delete-time-feature": "[Proposed] Delete Time Feature",
+        "adding-a-person": "Adding a Person",
+        "adding-a-group": "Adding a Group",
+        "delete-time-feature": "Delete Time Feature",
         "proposed-group-person": "[Proposed] Group Person",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
@@ -69,7 +69,8 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
@@ -115,13 +116,15 @@
       "headings": {
         "welcome-to-projectpro-s-user-guide": "Welcome to ProjectPRO's User Guide",
         "introductions": "Introductions",
+        "table-of-contents": "Table of Contents",
         "using-our-guide": "Using Our Guide",
         "quick-start": "Quick Start",
         "glossary": "Glossary",
+        "features": "Features",
         "commands-to-manage-contacts": "Commands to Manage Contacts",
         "adding-a-contact-add": "Adding a contact add",
         "deleting-a-contact-delete": "Deleting a contact delete",
-        "finding-contacts-find": "Finding contacts find",
+        "finding-a-contact-find": "Finding a contact find",
         "listing-contacts-list": "Listing contacts list",
         "commands-to-manage-groups": "Commands to Manage Groups",
         "adding-a-group-new": "Adding a group new",
@@ -174,7 +177,7 @@
       "src": "team/kailash201.md",
       "title": "Kailash's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-projectpro": "Project: ProjectPRO"
       },
       "headingKeywords": {}
     },
@@ -182,7 +185,7 @@
       "src": "team/lerxuann.md",
       "title": "Goh Ler Xuan's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-projectpro": "Project: ProjectPRO"
       },
       "headingKeywords": {}
     },
@@ -190,7 +193,7 @@
       "src": "team/nicholastng010601.md",
       "title": "Nicholas Tng's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-projectpro": "Project: ProjectPRO"
       },
       "headingKeywords": {}
     },
