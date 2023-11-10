@@ -38,6 +38,6 @@ with(this){return _c('li',[_v("Added implementation details of the "),_c('code',
 with(this){return _c('li',[_c('p',[_c('strong',[_v("Contributions beyond project team")])]),_v(" "),_c('ul',[_c('li',[_v("Meticulously review other groups work and provided feedback on potential bugs and how they could imrpove their product "),_c('a',{attrs:{"href":"https://github.com/nicholastng010601/ped/tree/main/files"}},[_v("here")]),_v(".")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 9 Nov 2023, 21:54:35 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Fri, 10 Nov 2023, 9:01:39 GMT+8]")])])])}
 }];
   
