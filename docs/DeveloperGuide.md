@@ -1,7 +1,7 @@
 ---
-  layout: default.md
-  title: "Developer Guide"
-  pageNav: 3
+layout: default.md
+title: "Developer Guide"
+pageNav: 3
 ---
 
 # ProjectPRO Developer Guide
@@ -48,7 +48,7 @@ Given below is a quick overview of main components and how they interact with ea
 
 **2.1.1. Main components of the architecture**
 
-**`Main`** has two main classes called [`Main`](https://github.com/AY2324S1-CS2103T-T10-3/tp/blob/master/src/main/java/seedu/address/Main.java) and [`MainApp`](https://github.com/AY2324S1-CS2103T-T10-3/tp/blob/master/src/main/java/seedu/address/MainApp.java)). It is responsible for app launch and shut down. 
+**`Main`** has two main classes called [`Main`](https://github.com/AY2324S1-CS2103T-T10-3/tp/blob/master/src/main/java/seedu/address/Main.java) and [`MainApp`](https://github.com/AY2324S1-CS2103T-T10-3/tp/blob/master/src/main/java/seedu/address/MainApp.java)). It is responsible for app launch and shut down.
 * At app launch, it initializes the other components in the correct sequence, and connects them up with each other.
 * At shut down, it shuts down the other components and invokes cleanup methods where necessary.
 
@@ -442,7 +442,7 @@ Currently, our add and delete time features allow users to input multiple time s
 and clears the input box. As we recognise that users might encounter accidental typos while typing time intervals, we believe having our program's input box keep the incorrect inputs can provide convenience
 to our users.
 
-### 4.3. Improving our user interface. 
+### 4.3. Improving our user interface.
 
 #### 4.1.3. Description
 Our future implementation involves optimizing the output display by increasing the height of the output box. This enhancement aims to provide users with a more comprehensive and visually accessible view, allowing them to easily grasp the content at a glance.
@@ -603,15 +603,15 @@ testers are expected to do more *exploratory* testing.
 
 1. Initial launch
 
-   1. Download the jar file and copy into an empty folder
+    1. Download the jar file and copy into an empty folder
 
-   2. Double-click the jar file Expected: Shows the GUI with a set of sample contacts. The window size may not be optimum.
+    2. Double-click the jar file Expected: Shows the GUI with a set of sample contacts. The window size may not be optimum.
 
 1. Saving window preferences
 
-   1. Resize the window to an optimum size. Move the window to a different location. Close the window.
+    1. Resize the window to an optimum size. Move the window to a different location. Close the window.
 
-   2. Re-launch the app by double-clicking the jar file.<br>
+    2. Re-launch the app by double-clicking the jar file.<br>
        Expected: The most recent window size and location is retained.
 
 1. _{ more test cases …​ }_
@@ -620,16 +620,16 @@ testers are expected to do more *exploratory* testing.
 
 1. Deleting a person while all persons are being shown
 
-   1. Prerequisites: List all persons using the `list` command. Multiple persons in the list.
+    1. Prerequisites: List all persons using the `list` command. Multiple persons in the list.
 
-   2. Test case: `delete n/Alex Yeoh`<br>
-      Expected: Alex is deleted from the list. Details of the deleted contact shown in the status message. Timestamp in the status bar is updated.
+    2. Test case: `delete n/Alex Yeoh`<br>
+       Expected: Alex is deleted from the list. Details of the deleted contact shown in the status message. Timestamp in the status bar is updated.
 
-   3. Test case: `delete n/Alex Yeoh`, after Alex has been deleted <br>
-      Expected: No person is deleted. Error details shown in the status message. Status bar remains the same.
+    3. Test case: `delete n/Alex Yeoh`, after Alex has been deleted <br>
+       Expected: No person is deleted. Error details shown in the status message. Status bar remains the same.
 
-   4. Other incorrect delete commands to try: `delete`, `delete n/x`, `...` (where x is not in the list)<br>
-      Expected: Similar to previous.
+    4. Other incorrect delete commands to try: `delete`, `delete n/x`, `...` (where x is not in the list)<br>
+       Expected: Similar to previous.
 
 1. _{ more test cases …​ }_
 
@@ -637,12 +637,10 @@ testers are expected to do more *exploratory* testing.
 
 1. Dealing with missing/corrupted data files
 
-   1. Edit the JSON file by adding a number "1" to the top of the file.
-   2. Run the file.
+    1. Edit the JSON file by adding a number "1" to the top of the file.
+    2. Run the file.
 
 1. _{ more test cases …​ }_
 
 
 --------------------------------------------------------------------------------------------------------------------
-
-
