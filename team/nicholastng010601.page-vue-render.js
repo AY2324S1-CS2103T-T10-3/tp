@@ -35,9 +35,9 @@ with(this){return _c('li',[_v("User Guide:\n"),_c('ul',[_c('li',[_v("Added docum
 with(this){return _c('li',[_v("Added implementation details of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deletetime")]),_v(" "),_c('a',{attrs:{"href":"https://github.com/AY2324S1-CS2103T-T10-3/tp/pull/112/files"}},[_v("#112")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("addgroup")]),_v(" "),_c('a',{attrs:{"href":"https://github.com/AY2324S1-CS2103T-T10-3/tp/pull/226/files"}},[_v("#226")]),_v(" feature.")])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('p',[_c('strong',[_v("Contributions beyond project team")])]),_v(" "),_c('ul',[_c('li',[_v("Meticulously review other groups work and provided feedback on potential bugs and how they could imrpove their product "),_c('a',{attrs:{"href":"https://github.com/nicholastng010601/ped/tree/main/files"}},[_v("here")]),_v(".")])])])}
+with(this){return _c('li',[_c('p',[_c('strong',[_v("Contributions beyond project team")])]),_v(" "),_c('ul',[_c('li',[_v("Meticulously review other groups work and provided feedback on potential bugs and how they could improve their product "),_c('a',{attrs:{"href":"https://github.com/nicholastng010601/ped/tree/main/files"}},[_v("here")]),_v(".")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Fri, 10 Nov 2023, 9:01:39 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Fri, 10 Nov 2023, 23:27:13 GMT+8]")])])])}
 }];
   
