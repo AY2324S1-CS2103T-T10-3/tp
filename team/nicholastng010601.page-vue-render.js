@@ -47,6 +47,6 @@ with(this){return _c('li',[_c('p',[_c('strong',[_v("Contributions beyond project
 with(this){return _c('li',[_c('p',[_c('strong',[_v("Community")]),_v(":")]),_v(" "),_c('ul',[_c('li',[_v("Reported bugs and suggestions for other teams in the class (examples: "),_c('a',{attrs:{"href":"https://github.com/AY2324S1-CS2103T-T10-4/tp/issues/242"}},[_v("1")]),_v(", "),_c('a',{attrs:{"href":"https://github.com/AY2324S1-CS2103T-T10-4/tp/issues/243"}},[_v("2")]),_v(", "),_c('a',{attrs:{"href":"https://github.com/AY2324S1-CS2103T-T10-4/tp/issues/240"}},[_v("3")]),_v(")")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 13 Nov 2023, 22:00:18 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 14 Nov 2023, 0:47:49 GMT+8]")])])])}
 }];
   

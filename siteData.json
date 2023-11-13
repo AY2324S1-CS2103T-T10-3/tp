@@ -74,7 +74,7 @@
         "3-10-listing-time-for-a-person-or-group": "3.10. Listing Time for a Person or Group",
         "listing-time-from-a-person": "Listing Time from a Person",
         "listing-time-from-a-group": "Listing Time from a Group",
-        "3-11-findfreetime": "3.11. FindFreeTime",
+        "3-11-find-free-time": "3.11. Find Free Time",
         "4-planned-enhancements": "4. Planned Enhancements",
         "4-1-undo-redo-feature": "4.1. Undo/redo feature",
         "4-2-addtime-deletetime-feature": "4.2. addtime/deletetime feature",
@@ -160,7 +160,6 @@
         "using-our-guide": "Using Our Guide",
         "quick-start": "Quick Start",
         "glossary": "Glossary",
-        "notes": "Notes",
         "features": "Features",
         "commands-to-manage-contacts": "Commands to Manage Contacts",
         "adding-a-contact-add": "Adding a contact add",
@@ -205,14 +204,6 @@
       "title": "Huang Yixin's Project Portfolio Page",
       "headings": {
         "project-projectpro": "Project: ProjectPRO"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
-      "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
       "headingKeywords": {}
     },
